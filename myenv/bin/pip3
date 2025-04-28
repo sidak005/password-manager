@@ -1,4 +1,4 @@
-#!/Users/sidaksingh/github/password-manager/myenv/bin/python3.12
+#!/Users/sidaksingh/Desktop/github/password-manager/myenv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

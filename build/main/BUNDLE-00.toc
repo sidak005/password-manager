@@ -1,0 +1,3 @@
+([('main',
+   '/Users/sidaksingh/Desktop/github/password-manager/dist/main',
+   'EXECUTABLE')],)
